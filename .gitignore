@@ -1,0 +1,6 @@
+notebooks/khyperband/
+notebooks/.ipynb_checkpoints/eda_model_build-checkpoint.ipynb
+scripts/__pycache__/score.cpython-37.pyc
+industrial_tsp/industrial_tsp/__pycache__/custom_funcs.cpython-37.pyc
+industrial_tsp/industrial_tsp/__pycache__/config.cpython-37.pyc
+industrial_tsp/industrial_tsp/.ipynb_checkpoints/custom_funcs-checkpoint.py
